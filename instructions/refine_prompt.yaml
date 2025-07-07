@@ -1,0 +1,6 @@
+task: "Refine unit tests"
+rules:
+  - "Improve assertions."
+  - "Fix missing #includes or macros."
+  - "Avoid repeating logic."
+  - "Ensure all functions are tested."

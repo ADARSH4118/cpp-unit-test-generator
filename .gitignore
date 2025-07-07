@@ -1,0 +1,17 @@
+# Ignore build artifacts
+/build/
+/coverage/
+/*.info
+
+# OS files
+.DS_Store
+
+# CMake artifacts
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Python cache
+__pycache__/
+*.pyc

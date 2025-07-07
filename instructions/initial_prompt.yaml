@@ -1,0 +1,10 @@
+task: "Generate unit tests"
+language: "C++"
+framework: "Google Test"
+rules:
+  - "Each test should target one function."
+  - "Use descriptive test names."
+  - "Include #include statements."
+  - "Include a main() function for running tests."
+  - "Avoid duplicate or trivial tests."
+  - "Save tests in 'tests/' folder."
